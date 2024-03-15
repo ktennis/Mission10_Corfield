@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kelse\\source\\repos\\Mission10_Corfield\\backend\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86791CF2-1448-48EE-8BCC-E0F15A7DC060}|WebApplication1.csproj|c:\\users\\kelse\\source\\repos\\mission10_corfield\\backend\\webapplication1\\models\\efbowlerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86791CF2-1448-48EE-8BCC-E0F15A7DC060}|WebApplication1.csproj|solutionrelative:models\\efbowlerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86791CF2-1448-48EE-8BCC-E0F15A7DC060}|WebApplication1.csproj|c:\\users\\kelse\\source\\repos\\mission10_corfield\\backend\\webapplication1\\models\\ibowlerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86791CF2-1448-48EE-8BCC-E0F15A7DC060}|WebApplication1.csproj|solutionrelative:models\\ibowlerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86791CF2-1448-48EE-8BCC-E0F15A7DC060}|WebApplication1.csproj|c:\\users\\kelse\\source\\repos\\mission10_corfield\\backend\\webapplication1\\controllers\\bowlercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86791CF2-1448-48EE-8BCC-E0F15A7DC060}|WebApplication1.csproj|solutionrelative:controllers\\bowlercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86791CF2-1448-48EE-8BCC-E0F15A7DC060}|WebApplication1.csproj|c:\\users\\kelse\\source\\repos\\mission10_corfield\\backend\\webapplication1\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86791CF2-1448-48EE-8BCC-E0F15A7DC060}|WebApplication1.csproj|solutionrelative:models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86791CF2-1448-48EE-8BCC-E0F15A7DC060}|WebApplication1.csproj|c:\\users\\kelse\\source\\repos\\mission10_corfield\\backend\\webapplication1\\models\\bowler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86791CF2-1448-48EE-8BCC-E0F15A7DC060}|WebApplication1.csproj|solutionrelative:models\\bowler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86791CF2-1448-48EE-8BCC-E0F15A7DC060}|WebApplication1.csproj|c:\\users\\kelse\\source\\repos\\mission10_corfield\\backend\\webapplication1\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86791CF2-1448-48EE-8BCC-E0F15A7DC060}|WebApplication1.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86791CF2-1448-48EE-8BCC-E0F15A7DC060}|WebApplication1.csproj|c:\\users\\kelse\\source\\repos\\mission10_corfield\\backend\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86791CF2-1448-48EE-8BCC-E0F15A7DC060}|WebApplication1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86791CF2-1448-48EE-8BCC-E0F15A7DC060}|WebApplication1.csproj|c:\\users\\kelse\\source\\repos\\mission10_corfield\\backend\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{86791CF2-1448-48EE-8BCC-E0F15A7DC060}|WebApplication1.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86791CF2-1448-48EE-8BCC-E0F15A7DC060}|WebApplication1.csproj|c:\\users\\kelse\\source\\repos\\mission10_corfield\\backend\\webapplication1\\models\\bowlingleaguecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86791CF2-1448-48EE-8BCC-E0F15A7DC060}|WebApplication1.csproj|solutionrelative:models\\bowlingleaguecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BowlerController.cs",
+              "DocumentMoniker": "C:\\Users\\kelse\\source\\repos\\Mission10_Corfield\\backend\\WebApplication1\\Controllers\\BowlerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BowlerController.cs",
+              "ToolTip": "C:\\Users\\kelse\\source\\repos\\Mission10_Corfield\\backend\\WebApplication1\\Controllers\\BowlerController.cs",
+              "RelativeToolTip": "Controllers\\BowlerController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T00:04:11.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EFBowlerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kelse\\source\\repos\\Mission10_Corfield\\backend\\WebApplication1\\Models\\EFBowlerRepository.cs",
+              "RelativeDocumentMoniker": "Models\\EFBowlerRepository.cs",
+              "ToolTip": "C:\\Users\\kelse\\source\\repos\\Mission10_Corfield\\backend\\WebApplication1\\Models\\EFBowlerRepository.cs",
+              "RelativeToolTip": "Models\\EFBowlerRepository.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T18:52:05.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IBowlerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kelse\\source\\repos\\Mission10_Corfield\\backend\\WebApplication1\\Models\\IBowlerRepository.cs",
+              "RelativeDocumentMoniker": "Models\\IBowlerRepository.cs",
+              "ToolTip": "C:\\Users\\kelse\\source\\repos\\Mission10_Corfield\\backend\\WebApplication1\\Models\\IBowlerRepository.cs",
+              "RelativeToolTip": "Models\\IBowlerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T18:50:30.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Team.cs",
+              "DocumentMoniker": "C:\\Users\\kelse\\source\\repos\\Mission10_Corfield\\backend\\WebApplication1\\Models\\Team.cs",
+              "RelativeDocumentMoniker": "Models\\Team.cs",
+              "ToolTip": "C:\\Users\\kelse\\source\\repos\\Mission10_Corfield\\backend\\WebApplication1\\Models\\Team.cs",
+              "RelativeToolTip": "Models\\Team.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T00:34:00.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bowler.cs",
+              "DocumentMoniker": "C:\\Users\\kelse\\source\\repos\\Mission10_Corfield\\backend\\WebApplication1\\Models\\Bowler.cs",
+              "RelativeDocumentMoniker": "Models\\Bowler.cs",
+              "ToolTip": "C:\\Users\\kelse\\source\\repos\\Mission10_Corfield\\backend\\WebApplication1\\Models\\Bowler.cs",
+              "RelativeToolTip": "Models\\Bowler.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA2wCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T15:27:22.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\kelse\\source\\repos\\Mission10_Corfield\\backend\\WebApplication1\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\kelse\\source\\repos\\Mission10_Corfield\\backend\\WebApplication1\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T02:32:16.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kelse\\source\\repos\\Mission10_Corfield\\backend\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\kelse\\source\\repos\\Mission10_Corfield\\backend\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T03:08:18.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\kelse\\source\\repos\\Mission10_Corfield\\backend\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\kelse\\source\\repos\\Mission10_Corfield\\backend\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-14T03:10:38.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BowlingLeagueContext.cs",
+              "DocumentMoniker": "C:\\Users\\kelse\\source\\repos\\Mission10_Corfield\\backend\\WebApplication1\\Models\\BowlingLeagueContext.cs",
+              "RelativeDocumentMoniker": "Models\\BowlingLeagueContext.cs",
+              "ToolTip": "C:\\Users\\kelse\\source\\repos\\Mission10_Corfield\\backend\\WebApplication1\\Models\\BowlingLeagueContext.cs",
+              "RelativeToolTip": "Models\\BowlingLeagueContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T03:07:50.812Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
